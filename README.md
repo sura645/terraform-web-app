@@ -165,3 +165,13 @@ yes
 
 ---
 
+## 📸 Screenshots
+
+### Terraform Apply
+![Terraform Apply](screenshots/terraform-apply.png)
+
+### EC2 Instance
+![EC2](screenshots/aws-ec2.png)
+
+### Website Output
+![Website](screenshots/website-output.png)
